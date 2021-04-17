@@ -30,6 +30,9 @@ body h2 {
 }
 
 table {
-    width:80%;
-    
+    width:80%;   
+}
+
+td {
+    padding: 5px;
 }
