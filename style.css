@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 3px;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    margin-top: auto;
+    margin-right: auto;
+    margin-left:  auto;
+    margin-bottom: auto
+    padding-right: 10px;
+    padding-left:  10px;
+    max-width: 1000px;
+}
+
+body{
+    padding: 30px;
+    font-size: 20px;
+}
+
+body h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+ .top{
+    text-align: center;
+    padding: 10px;
+}
+
+table {
+    width:80%;
+    
+}
